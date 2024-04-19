@@ -26,12 +26,19 @@ Ruby-programmed:
     ruby ./udpclient.rb port_start port_end
 
 
-## Files
+# Files
+###    Format of output file
+ File of server response is named **"msg.txt"**
+ 
+client_ip:port date time phone_number message_content
 
-File with information can have any name. File of server response is named **"msg.txt"**
+ **example**: 
 
+ - [ ] some_ip:port 28.03.2016 11:19:23 +79163849299 msg1 
+ - [ ] some_ip:port 21.03.2016 11:19:23 +79163849299 msg2
 
-## Format of input file
+### Format of input file
+File with information can have any name.
 
 date time phone_number message_content
 
