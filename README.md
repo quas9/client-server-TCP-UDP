@@ -1,7 +1,7 @@
 
 
-## Testing programm
-For starting **clients**:
+# Testing programm
+#For starting **clients**:
 
 C-programmed:
 
@@ -13,7 +13,7 @@ Ruby-programmed:
     ruby ./tcpclient.rb 127.0.0.1:port file_name.txt
     ruby ./udpclient.rb 127.0.0.1:port file_name.txt
 
-For starting **servers**:
+#For starting **servers**:
 
 C-programmed:
 
