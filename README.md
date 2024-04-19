@@ -48,6 +48,3 @@ date time phone_number message_content
  - [ ] 21.03.2016 11:19:23 +79163849299 msg2
                
 
-abc 
-def
-ekog
