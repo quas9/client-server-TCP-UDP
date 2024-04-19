@@ -27,7 +27,7 @@ Ruby-programmed:
 
 
 # Files
-###    Format of answer output file
+###    Format of answer in output file
  File of server response is named **"msg.txt"**
  
 client_ip:port date time phone_number message_content
